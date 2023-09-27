@@ -1,0 +1,1123 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
+:block/parent 
+{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
+:block/uuid #uuid "6512e759-9fa5-494f-a402-5d0d83c97d40"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512e759-9fa5-494f-a402-5d0d83c97d40"}
+:block/parent 
+{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
+:block/properties 
+{}
+:block/uuid #uuid "6512e7a6-5a87-45b1-961c-2cfa0535b114"} 
+{:block/created-at 1695737971543
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 0
+:scale [1 1]
+:type "pdf"
+:assetId "41b468b0-5c77-11ee-88d2-bf354e034b3a"
+:size [632 632]
+:opacity 1
+:id "41b48fc0-5c77-11ee-88d2-bf354e034b3a"
+:isLocked false
+:point [176 128]
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695737778234}}
+:block/updated-at 1695737971543} 
+{:block/created-at 1695738219805
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [307 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "29b1c090-5c78-11ee-88d2-bf354e034b3a"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [360 -368]
+:lineHeight 1.2
+:fontSize 32
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695738166576
+:italic false
+:text "The Hunger Games"}}
+:block/updated-at 1695738219805} 
+{:block/created-at 1695743408823
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "4c9f18f2-5c78-11ee-88d2-bf354e034b3a"
+:fontWeight 400
+:noFill true
+:point [512.13 -318]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [1.3 0]
+:bindingId "4c9f18f0-5c78-11ee-88d2-bf354e034b3a"}
+:end 
+{:id "end"
+:canBind true
+:point [0 442]
+:bindingId "5d33fa31-5c84-11ee-bafb-293848db0076"}}
+:decorations 
+{:end "arrow"}
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695738224959
+:italic false}}
+:block/updated-at 1695743408823} 
+{:block/created-at 1695738264126
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke "green"
+:rotation 0
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "lg"
+:fill "green"
+:type "text"
+:size [200 48]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4ee0a480-5c78-11ee-88d2-bf354e034b3a"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [520 -176]
+:lineHeight 1.2
+:fontSize 32
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695738229753
+:italic false
+:text "Study guide"}}
+:block/updated-at 1695738264126} 
+{:block/content "# Characters"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512e7a6-5a87-45b1-961c-2cfa0535b114"}
+:block/parent 
+{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
+:block/properties 
+{:heading 1}
+:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"} 
+{:block/created-at 1695740191815
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "6512ea58-d371-4868-808e-af352937efdf"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 78]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d6947af0-5c78-11ee-88d2-bf354e034b3a"
+:noFill false
+:point [888 -248]
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:collapsedHeight 0
+:nonce 1695738456223}}
+:block/updated-at 1695740191815} 
+{:block/content "Capitol residents:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
+:block/parent 
+{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
+:block/properties 
+{}
+:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"} 
+{:block/content "Tributes:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/parent 
+{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
+:block/properties 
+{}
+:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"} 
+{:block/content "Districts residents:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/parent 
+{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
+:block/properties 
+{}
+:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"} 
+{:block/content "Effie Trinket\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ee61-9f2b-4441-89fe-dfd862f016ce"} 
+{:block/content "Katniss Everdeen\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ee7c-1bc3-4383-87e2-59f4b199ed2c"} 
+{:block/content "Peeta Mellark\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee7c-1bc3-4383-87e2-59f4b199ed2c"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ee89-8298-4f63-a0ee-19b14b096058"} 
+{:block/content "Rue\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee89-8298-4f63-a0ee-19b14b096058"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ee8b-9a09-4721-8ffb-ce713849a8d7"} 
+{:block/content "logseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef16-57a7-472f-a897-f6749766135d"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ee8d-5754-4d0d-932f-a67340cc4b42"} 
+{:block/content "The Careers\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee8b-9a09-4721-8ffb-ce713849a8d7"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512eef0-1ce5-4fbc-b20f-f38537f30fc6"} 
+{:block/content "logseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f041-4e1d-4544-afff-fa675e1b849a"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef16-57a7-472f-a897-f6749766135d"} 
+{:block/collapsed? true
+:block/content "Primrose Everdeen #card\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"} 
+{:block/content "Katniss's Mother\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef43-97de-49f7-a966-80e82d84a6e0"} 
+{:block/content "Katniss's Father\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef43-97de-49f7-a966-80e82d84a6e0"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef48-7617-49e5-a87d-3796139c6980"} 
+{:block/content "Gale Hawthorne\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef48-7617-49e5-a87d-3796139c6980"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef4f-af86-4293-8473-bfe705b8ec61"} 
+{:block/content "Greasy Sae\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef4f-af86-4293-8473-bfe705b8ec61"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef57-e5d0-405b-93d8-799993ea9566"} 
+{:block/content "Madge Undersee\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef57-e5d0-405b-93d8-799993ea9566"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef6b-8102-43db-8a00-755449fb242d"} 
+{:block/content "Mayor Undersee\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef6b-8102-43db-8a00-755449fb242d"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef7a-8838-4323-8013-3b6808955170"} 
+{:block/content "Haymitch Abernathy\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef7a-8838-4323-8013-3b6808955170"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef80-4d22-4bae-b14b-84be65b65dd5"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f07e-8876-4eec-84e3-ab89ce8831b5"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{}
+:block/uuid #uuid "6512ef8c-93f9-49c4-8763-c0bfa674256f"} 
+{:block/content "logseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512efc8-6251-45ac-bd16-ebb4f62f355e"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512efb9-b542-4be4-a370-623ca0a908b8"} 
+{:block/content "Peeta's Father\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef80-4d22-4bae-b14b-84be65b65dd5"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512efc4-e5f7-4096-a60b-982d9ff2297d"} 
+{:block/content "logseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512efc4-e5f7-4096-a60b-982d9ff2297d"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512efc8-6251-45ac-bd16-ebb4f62f355e"} 
+{:block/content "Venia, Flavius, and Octavia\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee61-9f2b-4441-89fe-dfd862f016ce"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512efd4-a5d9-4040-9ed8-745666318b09"} 
+{:block/content "Cinna\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512efd4-a5d9-4040-9ed8-745666318b09"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512efd9-3133-4683-b01b-cb05c3226c75"} 
+{:block/content "Portia\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512efd9-3133-4683-b01b-cb05c3226c75"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512efef-c580-4287-887a-ad030a9402ff"} 
+{:block/content "Red-headed Avox\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512efef-c580-4287-887a-ad030a9402ff"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512eff7-bad7-4b42-ac9a-ee8ea7df23b0"} 
+{:block/content "President Snow\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512eff7-bad7-4b42-ac9a-ee8ea7df23b0"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f001-d5e7-4913-9099-c9c10703f394"} 
+{:block/content "Gamemakers\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f001-d5e7-4913-9099-c9c10703f394"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f004-0c81-44b1-879f-f6db0e62371f"} 
+{:block/content "Atala\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f004-0c81-44b1-879f-f6db0e62371f"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f00a-0f07-418f-8da1-042992d1cdde"} 
+{:block/content "Ceasar Flickerman\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f00a-0f07-418f-8da1-042992d1cdde"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f00e-5b2a-44db-8dcd-3b511cb4c79b"} 
+{:block/content "Claudius Templesmith\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f00e-5b2a-44db-8dcd-3b511cb4c79b"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f018-04c4-470e-ac2d-a5bc73446dac"} 
+{:block/content "Clove\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512eef0-1ce5-4fbc-b20f-f38537f30fc6"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f02c-e84f-4554-95a2-c20af255f289"} 
+{:block/content "\"Foxface\"\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f02c-e84f-4554-95a2-c20af255f289"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f02d-55f2-40d5-9336-8fd5d81e3440"} 
+{:block/content "Thresh\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f02d-55f2-40d5-9336-8fd5d81e3440"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f032-06c1-47b4-ab79-2e3a679841ee"} 
+{:block/content "Glimmer\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f032-06c1-47b4-ab79-2e3a679841ee"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f035-7009-49a9-b0d3-c0e12d505164"} 
+{:block/content "Cato\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f035-7009-49a9-b0d3-c0e12d505164"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f038-4fe8-47f4-8c97-a7e0f5efa187"} 
+{:block/content "Wolf Creatures\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f038-4fe8-47f4-8c97-a7e0f5efa187"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f041-4e1d-4544-afff-fa675e1b849a"} 
+{:block/content "Peacekeepers\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f018-04c4-470e-ac2d-a5bc73446dac"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f07e-8876-4eec-84e3-ab89ce8831b5"} 
+{:block/content "Katniss's siter whom she volunteered for in the day of the reaping. She resembles innocence for Katniss.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
+:block/parent 
+{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f098-21a5-45ce-acd0-cc2f89d6f1c9"} 
+{:block/content "logseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef43-97de-49f7-a966-80e82d84a6e0"}
+:block/parent 
+{:block/uuid #uuid "6512ef43-97de-49f7-a966-80e82d84a6e0"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f0cd-e436-465a-9f31-9398cbfb12ae"} 
+{:block/content "works sometimes as a healer\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f098-21a5-45ce-acd0-cc2f89d6f1c9"}
+:block/parent 
+{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f0e9-f8b1-4e03-9e4c-53ced7f9ffc7"} 
+{:block/content "has a pet goat named Lady\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f0e9-f8b1-4e03-9e4c-53ced7f9ffc7"}
+:block/parent 
+{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f0ef-698c-4684-9fa6-c3febc94e1d2"} 
+{:block/created-at 1695740275457
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "0f2f9cb2-5c7d-11ee-bafb-293848db0076"
+:fontWeight 400
+:noFill true
+:point [707.76 -166]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 293]
+:bindingId "0f2f9cb0-5c7d-11ee-bafb-293848db0076"}
+:end 
+{:id "end"
+:canBind true
+:point [199.43 0]
+:bindingId "0f2f9cb1-5c7d-11ee-bafb-293848db0076"}}
+:decorations 
+{:end "arrow"}
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695740269256
+:italic false}}
+:block/updated-at 1695740275457} 
+{:block/created-at 1695743402204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "1273cb32-5c7d-11ee-bafb-293848db0076"
+:fontWeight 400
+:noFill true
+:point [642.22 -318]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "5a244931-5c84-11ee-bafb-293848db0076"}
+:end 
+{:id "end"
+:canBind true
+:point [241.78 120.56]
+:bindingId "1273cb31-5c7d-11ee-bafb-293848db0076"}}
+:decorations 
+{:end "arrow"}
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695740274778
+:italic false}}
+:block/updated-at 1695743402204} 
+{:block/content "# Themes"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
+:block/parent 
+{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
+:block/properties 
+{:heading 1}
+:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"} 
+{:block/created-at 1695743373693
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "6512f6cd-1004-49f9-bee0-731a1e0074a3"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 78]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "42d5c820-5c80-11ee-bafb-293848db0076"
+:noFill false
+:point [-312 -240]
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:collapsedHeight 0
+:nonce 1695741644767}}
+:block/updated-at 1695743373693} 
+{:block/created-at 1695743398591
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "52d600f2-5c80-11ee-bafb-293848db0076"
+:fontWeight 400
+:noFill true
+:point [92 -318]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [287.7 0]
+:bindingId "5587b6a1-5c84-11ee-bafb-293848db0076"}
+:end 
+{:id "end"
+:canBind true
+:point [0 97.56]
+:bindingId "52d600f1-5c80-11ee-bafb-293848db0076"}}
+:decorations 
+{:end "arrow"}
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695741671447
+:italic false}}
+:block/updated-at 1695743398591} 
+{:block/created-at 1695743373697
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "5513bbf2-5c80-11ee-bafb-293848db0076"
+:fontWeight 400
+:noFill true
+:point [55.94 -158]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [206.44 285]
+:bindingId "5513bbf0-5c80-11ee-bafb-293848db0076"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "5513bbf1-5c80-11ee-bafb-293848db0076"}}
+:decorations 
+{:end "arrow"}
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695741674919
+:italic false}}
+:block/updated-at 1695743373697} 
+{:block/content "Evolving identity"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512f6f5-ef37-4707-b26d-b6ab2a6fe5ca"} 
+{:block/content "The sustaining power of love:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f6f5-ef37-4707-b26d-b6ab2a6fe5ca"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fc84-e545-4b3e-9dd2-cfc286acaf64"} 
+{:block/content "Class:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fc84-e545-4b3e-9dd2-cfc286acaf64"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fca4-7e84-4202-b98d-fda06aceb0e8"} 
+{:block/content "Spectacle"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fca4-7e84-4202-b98d-fda06aceb0e8"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fcd9-02fa-4c61-b950-6577628ee68a"} 
+{:block/content "Stoicism"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fcd9-02fa-4c61-b950-6577628ee68a"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fcfd-010c-4805-8905-a723986bcd7c"} 
+{:block/content "Rebellion/Revolution"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fcfd-010c-4805-8905-a723986bcd7c"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd2e-1b19-4ecb-9efb-a919bb8e04b5"} 
+{:block/content "Community"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fd2e-1b19-4ecb-9efb-a919bb8e04b5"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd44-b213-4756-be34-48c65cbe99fb"} 
+{:block/content "The Capitol keeps its population in line partially by keeping them separated. It uses class and spectacle and District separation to keep anyone from growing close to anyone else. Katniss brings this sense of isolation with her into the arena, believing that success will come from staying apart from the others and considering everyone around her as an enemy. Part of her growth in the novel is the realization that people are stronger when they are together. First through her alliance with Rue and then with Peeta, Katniss finds she survives better when part of a team. Her empathy for others is connected to the recognition that people are connected by shared humanity. Some of the most emotional moments come from this sense of community, as when District 11 gifts Katniss bread for her affection towards Rue. Her growing sense of community helps Katniss  dentify the Capitol as her society's primary antagonist."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fd44-b213-4756-be34-48c65cbe99fb"}
+:block/parent 
+{:block/uuid #uuid "6512fd44-b213-4756-be34-48c65cbe99fb"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd5e-a84c-4f17-b94f-d4a47399ff3c"} 
+{:block/content "Much of Panem's totalitarian and controlling structure is intended to keep the districts from uniting into a second rebellion. The Capitol has orchestrated a system to keep its population distracted and separated from one another. Katniss's story is partially the story of her becoming a revolutionary. When first chosen as tribute, Katniss immediately begins to formulate a plan to win, considering her antagonists as the other tributes. This makes Peeta's kindness and Rue's similarities to Prim problematic, since they make it harder for her to consider them enemies. However, as the novel progresses, Katniss begins to realize her true enemy is not anyone in the arena but instead those who put them all there: the Capitol. This novel is the first of a trilogy, and by the end of the first book, Katniss is firmly convinced that the true evil is the system. It is the first step of revolutionary zeal that will drive her to confront the powers that be."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fd2e-1b19-4ecb-9efb-a919bb8e04b5"}
+:block/parent 
+{:block/uuid #uuid "6512fd2e-1b19-4ecb-9efb-a919bb8e04b5"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd61-3a79-467c-8a64-10f2814f7c88"} 
+{:block/content "Stoicism is an ancient philosophy of withholding emotion for the sake of inner strength. In Roman times, stoicism meant, in a larger sense, the willingness to lose everything. One of Katniss's strengths is her stoicisim, which she describes as her \"indifferent mask.\" Because of the pressure to provide for her family, she has learned to stay focused on survival at the expense of her emotions, so much so that she doesn't realize how deeply she feels for Gale. Through the novel, her stoic determination proves a great asset towards succeeding at the Games, but it also masks her deep empathetic feelings for other people. Part of her journey is learning to accept her emotional side in addition to her stoicism."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fcfd-010c-4805-8905-a723986bcd7c"}
+:block/parent 
+{:block/uuid #uuid "6512fcfd-010c-4805-8905-a723986bcd7c"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd62-ca31-4bd7-88ea-79628e96cf9a"} 
+{:block/content "The concept of \"spectacle\" is that the ruling class keeps its transgressions hidden by distracting the population through entertainments. In contemporary society, the argument would be that our surplus of vacuous television promotes a consumer culture that keeps the lower classes from identifying how terribly they are oppressed. This is very much what the Hunger Games do for the population of Panem. The Games are not treated by the citizens as brutish punishment, but rather as popular entertainment. By distracting the population with the Games, the Capitol keeps them from confronting greater injustices and potentially rebelling a second time. Katniss is very aware of the spectacle throughout the novel. She is constantly aware that to be a victor, she must give the audience entertainment value. Her pride is another reason she wants to control her image for the audience. The existence and awareness of the spectacle cause Katniss a lot of character conflict, particularly in terms of her affection for Peeta, which she justifies as being for the audience but which the reader can identify as true feelings. However, this theme is somewhat undercut by District 12's awareness of the horror of the Games. Collins seems to be saying that there is a nobility to being truly poor that allows them to see truths the more comfortable cannot. But this diminishes the parallel to real-world spectacle keeping oppressed classes from awareness of their oppression."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fcd9-02fa-4c61-b950-6577628ee68a"}
+:block/parent 
+{:block/uuid #uuid "6512fcd9-02fa-4c61-b950-6577628ee68a"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd64-9238-45a9-8570-805c0df550c1"} 
+{:block/content "Panem is a country built on extreme class divisions. The districts are kept from contacting one another, and each is forced into a particular industry, thus limiting the social mobility of those within the district. Class is a strong tool used by the Capitol to keep its citizens distant from one another, hence limiting the chances of another rebellion. The tesserae is a prime example of how class keeps the poor resentful of the rich. Katniss, as the girl from the Seam in District 12, is the poorest of the poor. Though friendly with some in the merchant class, she exhibits various class resentments throughout the novel. She associates the Career tributes with their richer districts, and has trouble falling for Peeta partly because he knows the privilege of the merchant class, comparing him to Gale, who knows poverty."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fca4-7e84-4202-b98d-fda06aceb0e8"}
+:block/parent 
+{:block/uuid #uuid "6512fca4-7e84-4202-b98d-fda06aceb0e8"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd66-929e-41b7-8494-dd50a7dd5637"} 
+{:block/content "Love proves to be integral towards keeping Katniss alive. She survived the difficult times following her father's death because she had Prim to look after. Her love for her sister (and her mother, though less explicitly) is what helps her to stay strong as a provider for the family. Likewise, Peeta's act of kindness with the bread, which she credits as having given her strength in that period, was dictated by his love for her, though she didn't know that at the time. Further, her growing love for Peeta in the arena continually helps her. The most obvious way is by encouraging Haymitch to send her sponsor gifts. Though she claims she expresses affection only for the sake of the gifts, it can easily be argued that her true feelings for him are what help her survive the final phases of the Games."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fc84-e545-4b3e-9dd2-cfc286acaf64"}
+:block/parent 
+{:block/uuid #uuid "6512fc84-e545-4b3e-9dd2-cfc286acaf64"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd68-28b2-4168-9427-2fc414607736"} 
+{:block/content "One of the central narratives in the novel is Katniss's shifting identity. At the beginning of the story, she considers herself thoroughly a \"girl from the Seam.\" She finds dignity in her poverty and her ability to survive it through her hunting and gathering skills. While friendly with several members of the merchant class, she identifies herself most strongly with Gale, also the child of a deceased poor miner. The stoic strength this identity has given her provides the philosophy she thinks will help her succeed in the Games. However, through the adventure, Katniss is forced to question both her identity as a \"girl from the Seam\" and her stoic detachment. In terms of the former, her relationship with Peeta, a boy from the merchant class, and her attraction to the luxury of the Capitol make her question whether she might belong somewhere different. And as she grows more and more indignant as she observes the brutality of the Games, she is forced to make many ethical decisions. She ultimately shows that deep down, she is a caring and empathetic person who disdains causing suffering (even to the antagonistic Career tributes), as opposed to being only a stoic hunter. This theme is reflected in a running conflict of passion vs. reason."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f6f5-ef37-4707-b26d-b6ab2a6fe5ca"}
+:block/parent 
+{:block/uuid #uuid "6512f6f5-ef37-4707-b26d-b6ab2a6fe5ca"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd6a-0bef-4500-9adc-91ccb1807ef3"} 
+{:block/content "# Vocabs"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/parent 
+{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
+:block/properties 
+{:heading 1}
+:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"} 
+{:block/created-at 1695825652020
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 10
+:scale [1 1]
+:pageId "6512fdcc-59ac-4f77-9af4-3b452ab20d82"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 150]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6e9ceac0-5c84-11ee-bafb-293848db0076"
+:noFill false
+:point [496 -784]
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:collapsedHeight 0
+:nonce 1695743435639}}
+:block/updated-at 1695825652020} 
+{:block/created-at 1695825652039
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "74dd6952-5c84-11ee-bafb-293848db0076"
+:fontWeight 400
+:noFill true
+:point [571.53 -630]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 757]
+:bindingId "74dd6950-5c84-11ee-bafb-293848db0076"}
+:end 
+{:id "end"
+:canBind true
+:point [189.93 0]
+:bindingId "74dd6951-5c84-11ee-bafb-293848db0076"}}
+:decorations 
+{:end "arrow"}
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695743446367
+:italic false}}
+:block/updated-at 1695825652039} 
+{:block/created-at 1695825652037
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "782df3e2-5c84-11ee-bafb-293848db0076"
+:fontWeight 400
+:noFill true
+:point [518.7 -630]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 261]
+:bindingId "782df3e0-5c84-11ee-bafb-293848db0076"}
+:end 
+{:id "end"
+:canBind true
+:point [53.19 0]
+:bindingId "782df3e1-5c84-11ee-bafb-293848db0076"}}
+:decorations 
+{:end "arrow"}
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695743451919
+:italic false}}
+:block/updated-at 1695825652037})
+:pages (
+{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:name "the hunger games"
+:bindings 
+{:5513bbf0-5c80-11ee-bafb-293848db0076 
+{:id "5513bbf0-5c80-11ee-bafb-293848db0076"
+:type "line"
+:fromId "5513bbf2-5c80-11ee-bafb-293848db0076"
+:toId "41b48fc0-5c77-11ee-88d2-bf354e034b3a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:5d33fa31-5c84-11ee-bafb-293848db0076 
+{:id "5d33fa31-5c84-11ee-bafb-293848db0076"
+:type "line"
+:fromId "4c9f18f2-5c78-11ee-88d2-bf354e034b3a"
+:toId "41b48fc0-5c77-11ee-88d2-bf354e034b3a"
+:handleId "end"
+:point [0.53 0.5]
+:distance 4}
+:4c9f18f0-5c78-11ee-88d2-bf354e034b3a 
+{:id "4c9f18f0-5c78-11ee-88d2-bf354e034b3a"
+:type "line"
+:fromId "4c9f18f2-5c78-11ee-88d2-bf354e034b3a"
+:toId "29b1c090-5c78-11ee-88d2-bf354e034b3a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:53bb0cf1-5c84-11ee-bafb-293848db0076 
+{:id "53bb0cf1-5c84-11ee-bafb-293848db0076"
+:type "line"
+:fromId "52d600f2-5c80-11ee-bafb-293848db0076"
+:toId "29b1c090-5c78-11ee-88d2-bf354e034b3a"
+:handleId "start"
+:point [0.3 0.4]
+:distance 4}
+:782df3e1-5c84-11ee-bafb-293848db0076 
+{:id "782df3e1-5c84-11ee-bafb-293848db0076"
+:type "line"
+:fromId "782df3e2-5c84-11ee-bafb-293848db0076"
+:toId "6e9ceac0-5c84-11ee-bafb-293848db0076"
+:handleId "end"
+:point [0.24 0.44]
+:distance 4}
+:5587b6a1-5c84-11ee-bafb-293848db0076 
+{:id "5587b6a1-5c84-11ee-bafb-293848db0076"
+:type "line"
+:fromId "52d600f2-5c80-11ee-bafb-293848db0076"
+:toId "29b1c090-5c78-11ee-88d2-bf354e034b3a"
+:handleId "start"
+:point [0.33 0.47]
+:distance 4}
+:782df3e0-5c84-11ee-bafb-293848db0076 
+{:id "782df3e0-5c84-11ee-bafb-293848db0076"
+:type "line"
+:fromId "782df3e2-5c84-11ee-bafb-293848db0076"
+:toId "29b1c090-5c78-11ee-88d2-bf354e034b3a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:5a244931-5c84-11ee-bafb-293848db0076 
+{:id "5a244931-5c84-11ee-bafb-293848db0076"
+:type "line"
+:fromId "1273cb32-5c7d-11ee-bafb-293848db0076"
+:toId "29b1c090-5c78-11ee-88d2-bf354e034b3a"
+:handleId "start"
+:point [0.71 0.4]
+:distance 4}
+:515cd1a1-5c84-11ee-bafb-293848db0076 
+{:id "515cd1a1-5c84-11ee-bafb-293848db0076"
+:type "line"
+:fromId "1273cb32-5c7d-11ee-bafb-293848db0076"
+:toId "29b1c090-5c78-11ee-88d2-bf354e034b3a"
+:handleId "start"
+:point [0.73 0.46]
+:distance 4}
+:0f2f9cb0-5c7d-11ee-bafb-293848db0076 
+{:id "0f2f9cb0-5c7d-11ee-bafb-293848db0076"
+:type "line"
+:fromId "0f2f9cb2-5c7d-11ee-bafb-293848db0076"
+:toId "41b48fc0-5c77-11ee-88d2-bf354e034b3a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:1273cb31-5c7d-11ee-bafb-293848db0076 
+{:id "1273cb31-5c7d-11ee-bafb-293848db0076"
+:type "line"
+:fromId "1273cb32-5c7d-11ee-bafb-293848db0076"
+:toId "d6947af0-5c78-11ee-88d2-bf354e034b3a"
+:handleId "end"
+:point [0.07 0.8]
+:distance 4}
+:4c9f18f1-5c78-11ee-88d2-bf354e034b3a 
+{:id "4c9f18f1-5c78-11ee-88d2-bf354e034b3a"
+:type "line"
+:fromId "4c9f18f2-5c78-11ee-88d2-bf354e034b3a"
+:toId "41b48fc0-5c77-11ee-88d2-bf354e034b3a"
+:handleId "end"
+:point [0.54 0.53]
+:distance 4}
+:74dd6951-5c84-11ee-bafb-293848db0076 
+{:id "74dd6951-5c84-11ee-bafb-293848db0076"
+:type "line"
+:fromId "74dd6952-5c84-11ee-bafb-293848db0076"
+:toId "6e9ceac0-5c84-11ee-bafb-293848db0076"
+:handleId "end"
+:point [0.71 0.49]
+:distance 4}
+:0f2f9cb1-5c7d-11ee-bafb-293848db0076 
+{:id "0f2f9cb1-5c7d-11ee-bafb-293848db0076"
+:type "line"
+:fromId "0f2f9cb2-5c7d-11ee-bafb-293848db0076"
+:toId "d6947af0-5c78-11ee-88d2-bf354e034b3a"
+:handleId "end"
+:point [0.13 0.49]
+:distance 4}
+:5513bbf1-5c80-11ee-bafb-293848db0076 
+{:id "5513bbf1-5c80-11ee-bafb-293848db0076"
+:type "line"
+:fromId "5513bbf2-5c80-11ee-bafb-293848db0076"
+:toId "42d5c820-5c80-11ee-bafb-293848db0076"
+:handleId "end"
+:point [0.82 0.4]
+:distance 4}
+:74dd6950-5c84-11ee-bafb-293848db0076 
+{:id "74dd6950-5c84-11ee-bafb-293848db0076"
+:type "line"
+:fromId "74dd6952-5c84-11ee-bafb-293848db0076"
+:toId "41b48fc0-5c77-11ee-88d2-bf354e034b3a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:52d600f0-5c80-11ee-bafb-293848db0076 
+{:id "52d600f0-5c80-11ee-bafb-293848db0076"
+:type "line"
+:fromId "52d600f2-5c80-11ee-bafb-293848db0076"
+:toId "29b1c090-5c78-11ee-88d2-bf354e034b3a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:52d600f1-5c80-11ee-bafb-293848db0076 
+{:id "52d600f1-5c80-11ee-bafb-293848db0076"
+:type "line"
+:fromId "52d600f2-5c80-11ee-bafb-293848db0076"
+:toId "42d5c820-5c80-11ee-bafb-293848db0076"
+:handleId "end"
+:point [0.76 0.66]
+:distance 4}}
+:nonce 1
+:assets [
+{:id "41b468b0-5c77-11ee-88d2-bf354e034b3a"
+:type "pdf"
+:src "../assets/Thehungergames_1695737776807_0.pdf"
+:size [595 842]}]
+:shapes-index ("41b48fc0-5c77-11ee-88d2-bf354e034b3a" "29b1c090-5c78-11ee-88d2-bf354e034b3a" "4c9f18f2-5c78-11ee-88d2-bf354e034b3a" "4ee0a480-5c78-11ee-88d2-bf354e034b3a" "d6947af0-5c78-11ee-88d2-bf354e034b3a" "0f2f9cb2-5c7d-11ee-bafb-293848db0076" "1273cb32-5c7d-11ee-bafb-293848db0076" "42d5c820-5c80-11ee-bafb-293848db0076" "52d600f2-5c80-11ee-bafb-293848db0076" "5513bbf2-5c80-11ee-bafb-293848db0076" "6e9ceac0-5c84-11ee-bafb-293848db0076" "74dd6952-5c84-11ee-bafb-293848db0076" "782df3e2-5c84-11ee-bafb-293848db0076")}}
+:block/updated-at 1695825653539
+:block/created-at 1695737567216
+:block/type "whiteboard"
+:block/name "the hunger games"
+:block/original-name "the hunger games"})}
