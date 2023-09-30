@@ -415,4 +415,4 @@
  :graph/settings {:orphan-pages? false
  :builtin-pages? false
  :excluded-pages? true
- :journal? false}}
+ :journal? true}}

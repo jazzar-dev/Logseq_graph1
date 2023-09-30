@@ -413,6 +413,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:orphan-pages? false
- :builtin-pages? false
- :excluded-pages? true
- :journal? false}}
+ :builtin-pages? true
+ :excluded-pages? true}}
