@@ -1,0 +1,29 @@
+# Some Passwords/Credentials
+- Gaming
+	- Riot
+		- Saif's account:
+			- Username: Bustin4x
+			- Password: Qwert_12xX87
+		- My main account:
+			- Username: gamerjazzar
+			- Password: Hamada@123
+			- Email: hammadasun@gmail.com
+		- My turkish account
+			- Username: gamerjazzar7
+			- Password: Hamada@123
+			- Email: gamerjazzar@outlook.com
+	- Steam
+		- My main turkish account:
+			- Username: jazzar36
+			- Password: Mohammed&hamada@123
+			- Email: jazzar6969@gmail.com
+- X
+- Y
+- Miscellaneous
+	- Taskade
+		- Email: hammadasun@gmail.com
+		- Password: Hamada@123
+	- Anytype
+		- Phrase: **vapor detect buyer stairs yellow swamp reason crush exist cable please enter**
+-
+- <!--EndFragment-->

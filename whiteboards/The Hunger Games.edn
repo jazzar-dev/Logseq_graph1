@@ -6,61 +6,349 @@
 :block/parent 
 {:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
 :block/uuid #uuid "6512e759-9fa5-494f-a402-5d0d83c97d40"} 
-{:block/content ""
+{:block/content "Rebellion/Revolution"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "6512e759-9fa5-494f-a402-5d0d83c97d40"}
+{:block/uuid #uuid "6512fcfd-010c-4805-8905-a723986bcd7c"}
 :block/parent 
-{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
 :block/properties 
 {}
-:block/uuid #uuid "6512e7a6-5a87-45b1-961c-2cfa0535b114"} 
-{:block/created-at 1695737971543
+:block/uuid #uuid "6512fd2e-1b19-4ecb-9efb-a919bb8e04b5"} 
+{:block/collapsed? true
+:block/content "Effie Trinket\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ee61-9f2b-4441-89fe-dfd862f016ce"} 
+{:block/collapsed? true
+:block/content "Wolf Creatures\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f038-4fe8-47f4-8c97-a7e0f5efa187"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f041-4e1d-4544-afff-fa675e1b849a"} 
+{:block/collapsed? true
+:block/content "Glimmer\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f032-06c1-47b4-ab79-2e3a679841ee"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f035-7009-49a9-b0d3-c0e12d505164"} 
+{:block/collapsed? true
+:block/content "Peeta's Father\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef80-4d22-4bae-b14b-84be65b65dd5"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512efc4-e5f7-4096-a60b-982d9ff2297d"} 
+{:block/content "Class:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fc84-e545-4b3e-9dd2-cfc286acaf64"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fca4-7e84-4202-b98d-fda06aceb0e8"} 
+{:block/collapsed? true
+:block/content "Madge Undersee\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef57-e5d0-405b-93d8-799993ea9566"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef6b-8102-43db-8a00-755449fb242d"} 
+{:block/content "Tributes:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/parent 
+{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
+:block/properties 
+{}
+:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"} 
+{:block/content "Capitol residents:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
+:block/parent 
+{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
+:block/properties 
+{}
+:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"} 
+{:block/collapsed? true
+:block/content "Greasy Sae\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef4f-af86-4293-8473-bfe705b8ec61"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef57-e5d0-405b-93d8-799993ea9566"} 
+{:block/content "works sometimes as a healer\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f098-21a5-45ce-acd0-cc2f89d6f1c9"}
+:block/parent 
+{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f0e9-f8b1-4e03-9e4c-53ced7f9ffc7"} 
+{:block/created-at 1696432543602
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:rotation 0
-:index 0
+{:stroke ""
+:index 12
 :scale [1 1]
-:type "pdf"
-:assetId "41b468b0-5c77-11ee-88d2-bf354e034b3a"
-:size [632 632]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
 :opacity 1
-:id "41b48fc0-5c77-11ee-88d2-bf354e034b3a"
-:isLocked false
-:point [176 128]
+:label ""
+:id "782df3e2-5c84-11ee-bafb-293848db0076"
+:fontWeight 400
+:noFill true
+:point [518.66 -635.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 266.59]
+:bindingId "782df3e0-5c84-11ee-bafb-293848db0076"}
+:end 
+{:id "end"
+:canBind true
+:point [53.98 0]
+:bindingId "782df3e1-5c84-11ee-bafb-293848db0076"}}
+:decorations 
+{:end "arrow"}
 :parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
-:nonce 1695737778234}}
-:block/updated-at 1695737971543} 
-{:block/created-at 1695738219805
+:nonce 1695743451920
+:italic false}}
+:block/updated-at 1696432543602} 
+{:block/collapsed? true
+:block/content "Red-headed Avox\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512efef-c580-4287-887a-ad030a9402ff"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512eff7-bad7-4b42-ac9a-ee8ea7df23b0"} 
+{:block/created-at 1695738264126
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:isSizeLocked true
-:stroke ""
+{:isSizeLocked false
+:stroke "green"
+:rotation 0
 :borderRadius 0
-:index 1
+:index 3
 :scale [1 1]
 :scaleLevel "lg"
-:fill ""
+:fill "green"
 :type "text"
-:size [307 49]
+:size [200 48]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "29b1c090-5c78-11ee-88d2-bf354e034b3a"
+:id "4ee0a480-5c78-11ee-88d2-bf354e034b3a"
 :padding 4
 :fontWeight 400
 :noFill true
-:point [360 -368]
+:point [520 -176]
 :lineHeight 1.2
 :fontSize 32
 :parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
-:nonce 1695738166576
+:nonce 1695738229753
 :italic false
-:text "The Hunger Games"}}
-:block/updated-at 1695738219805} 
+:text "Study guide"}}
+:block/updated-at 1695738264126} 
+{:block/collapsed? true
+:block/content "The Careers\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee8b-9a09-4721-8ffb-ce713849a8d7"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512eef0-1ce5-4fbc-b20f-f38537f30fc6"} 
+{:block/created-at 1696432543584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "6512f6cd-1004-49f9-bee0-731a1e0074a3"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 72.4062227259357]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "42d5c820-5c80-11ee-bafb-293848db0076"
+:noFill false
+:point [-312 -240]
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:collapsedHeight 0
+:nonce 1695741644768}}
+:block/updated-at 1696432543584} 
+{:block/collapsed? true
+:block/content "Gamemakers\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f001-d5e7-4913-9099-c9c10703f394"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f004-0c81-44b1-879f-f6db0e62371f"} 
+{:block/collapsed? true
+:block/content "\"Foxface\"\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f02c-e84f-4554-95a2-c20af255f289"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f02d-55f2-40d5-9336-8fd5d81e3440"} 
+{:block/content "Spectacle"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fca4-7e84-4202-b98d-fda06aceb0e8"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fcd9-02fa-4c61-b950-6577628ee68a"} 
+{:block/collapsed? true
+:block/content "Clove\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512eef0-1ce5-4fbc-b20f-f38537f30fc6"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f02c-e84f-4554-95a2-c20af255f289"} 
+{:block/content "Katniss's mother is never named in the novel, but she is an important part of Katniss's life. After her husband's death, the mother was paralyzed by her grief, so much so that she did not provide for her daughters. This helplessness is what caused Katniss to begin hunting and gathering to protect the family. The mother has since recovered and works as an apothecary (which in Panem means a non-traditional\"healer\"), but Katniss has never forgiven her for having disappeared as she did. The mother was from a middle-class family, and married beneath her station when she married Katniss's miner father.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef43-97de-49f7-a966-80e82d84a6e0"}
+:block/parent 
+{:block/uuid #uuid "6512ef43-97de-49f7-a966-80e82d84a6e0"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f0cd-e436-465a-9f31-9398cbfb12ae"} 
+{:block/created-at 1696432543599
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "5513bbf2-5c80-11ee-bafb-293848db0076"
+:fontWeight 400
+:noFill true
+:point [53.39 -163.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [209.77 290.59]
+:bindingId "5513bbf0-5c80-11ee-bafb-293848db0076"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "5513bbf1-5c80-11ee-bafb-293848db0076"}}
+:decorations 
+{:end "arrow"}
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695741674920
+:italic false}}
+:block/updated-at 1696432543599} 
+{:block/collapsed? true
+:block/content "Venia, Flavius, and Octavia\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee61-9f2b-4441-89fe-dfd862f016ce"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512efd4-a5d9-4040-9ed8-745666318b09"} 
+{:block/collapsed? true
+:block/content "Gale Hawthorne\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef48-7617-49e5-a87d-3796139c6980"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef4f-af86-4293-8473-bfe705b8ec61"} 
+{:block/collapsed? true
+:block/content "Katniss Everdeen\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ee7c-1bc3-4383-87e2-59f4b199ed2c"} 
+{:block/collapsed? true
+:block/content "Rue\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee89-8298-4f63-a0ee-19b14b096058"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ee8b-9a09-4721-8ffb-ce713849a8d7"} 
 {:block/created-at 1695743408823
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -97,308 +385,8 @@
 :nonce 1695738224959
 :italic false}}
 :block/updated-at 1695743408823} 
-{:block/created-at 1695738264126
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:isSizeLocked false
-:stroke "green"
-:rotation 0
-:borderRadius 0
-:index 3
-:scale [1 1]
-:scaleLevel "lg"
-:fill "green"
-:type "text"
-:size [200 48]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "4ee0a480-5c78-11ee-88d2-bf354e034b3a"
-:padding 4
-:fontWeight 400
-:noFill true
-:point [520 -176]
-:lineHeight 1.2
-:fontSize 32
-:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
-:nonce 1695738229753
-:italic false
-:text "Study guide"}}
-:block/updated-at 1695738264126} 
-{:block/content "# Characters"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512e7a6-5a87-45b1-961c-2cfa0535b114"}
-:block/parent 
-{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
-:block/properties 
-{:heading 1}
-:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"} 
-{:block/created-at 1695740191815
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 4
-:scale [1 1]
-:pageId "6512ea58-d371-4868-808e-af352937efdf"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 78]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "d6947af0-5c78-11ee-88d2-bf354e034b3a"
-:noFill false
-:point [888 -248]
-:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
-:collapsedHeight 0
-:nonce 1695738456223}}
-:block/updated-at 1695740191815} 
-{:block/content "Capitol residents:"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
-:block/parent 
-{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
-:block/properties 
-{}
-:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"} 
-{:block/content "Tributes:"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/parent 
-{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
-:block/properties 
-{}
-:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"} 
-{:block/content "Districts residents:"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/parent 
-{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
-:block/properties 
-{}
-:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"} 
-{:block/content "Effie Trinket\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/parent 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ee61-9f2b-4441-89fe-dfd862f016ce"} 
-{:block/content "Katniss Everdeen\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/parent 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ee7c-1bc3-4383-87e2-59f4b199ed2c"} 
-{:block/content "Peeta Mellark\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ee7c-1bc3-4383-87e2-59f4b199ed2c"}
-:block/parent 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ee89-8298-4f63-a0ee-19b14b096058"} 
-{:block/content "Rue\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ee89-8298-4f63-a0ee-19b14b096058"}
-:block/parent 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ee8b-9a09-4721-8ffb-ce713849a8d7"} 
-{:block/content "logseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ef16-57a7-472f-a897-f6749766135d"}
-:block/parent 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ee8d-5754-4d0d-932f-a67340cc4b42"} 
-{:block/content "The Careers\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ee8b-9a09-4721-8ffb-ce713849a8d7"}
-:block/parent 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512eef0-1ce5-4fbc-b20f-f38537f30fc6"} 
-{:block/content "logseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f041-4e1d-4544-afff-fa675e1b849a"}
-:block/parent 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ef16-57a7-472f-a897-f6749766135d"} 
 {:block/collapsed? true
-:block/content "Primrose Everdeen #card\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
-:block/parent 
-{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"} 
-{:block/content "Katniss's Mother\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
-:block/parent 
-{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ef43-97de-49f7-a966-80e82d84a6e0"} 
-{:block/content "Katniss's Father\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ef43-97de-49f7-a966-80e82d84a6e0"}
-:block/parent 
-{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ef48-7617-49e5-a87d-3796139c6980"} 
-{:block/content "Gale Hawthorne\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ef48-7617-49e5-a87d-3796139c6980"}
-:block/parent 
-{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ef4f-af86-4293-8473-bfe705b8ec61"} 
-{:block/content "Greasy Sae\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ef4f-af86-4293-8473-bfe705b8ec61"}
-:block/parent 
-{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ef57-e5d0-405b-93d8-799993ea9566"} 
-{:block/content "Madge Undersee\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ef57-e5d0-405b-93d8-799993ea9566"}
-:block/parent 
-{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ef6b-8102-43db-8a00-755449fb242d"} 
-{:block/content "Mayor Undersee\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ef6b-8102-43db-8a00-755449fb242d"}
-:block/parent 
-{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ef7a-8838-4323-8013-3b6808955170"} 
-{:block/content "Haymitch Abernathy\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ef7a-8838-4323-8013-3b6808955170"}
-:block/parent 
-{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512ef80-4d22-4bae-b14b-84be65b65dd5"} 
-{:block/content ""
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f07e-8876-4eec-84e3-ab89ce8831b5"}
-:block/parent 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/properties 
-{}
-:block/uuid #uuid "6512ef8c-93f9-49c4-8763-c0bfa674256f"} 
-{:block/content "logseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512efc8-6251-45ac-bd16-ebb4f62f355e"}
-:block/parent 
-{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512efb9-b542-4be4-a370-623ca0a908b8"} 
-{:block/content "Peeta's Father\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ef80-4d22-4bae-b14b-84be65b65dd5"}
-:block/parent 
-{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512efc4-e5f7-4096-a60b-982d9ff2297d"} 
-{:block/content "logseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512efc4-e5f7-4096-a60b-982d9ff2297d"}
-:block/parent 
-{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512efc8-6251-45ac-bd16-ebb4f62f355e"} 
-{:block/content "Venia, Flavius, and Octavia\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ee61-9f2b-4441-89fe-dfd862f016ce"}
-:block/parent 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512efd4-a5d9-4040-9ed8-745666318b09"} 
-{:block/content "Cinna\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512efd4-a5d9-4040-9ed8-745666318b09"}
-:block/parent 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512efd9-3133-4683-b01b-cb05c3226c75"} 
-{:block/content "Portia\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512efd9-3133-4683-b01b-cb05c3226c75"}
-:block/parent 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512efef-c580-4287-887a-ad030a9402ff"} 
-{:block/content "Red-headed Avox\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512efef-c580-4287-887a-ad030a9402ff"}
-:block/parent 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512eff7-bad7-4b42-ac9a-ee8ea7df23b0"} 
-{:block/content "President Snow\nlogseq.order-list-type:: number"
+:block/content "President Snow\nlogseq.order-list-type:: number"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6512eff7-bad7-4b42-ac9a-ee8ea7df23b0"}
@@ -407,132 +395,6 @@
 :block/properties 
 {:logseq.order-list-type "number"}
 :block/uuid #uuid "6512f001-d5e7-4913-9099-c9c10703f394"} 
-{:block/content "Gamemakers\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f001-d5e7-4913-9099-c9c10703f394"}
-:block/parent 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f004-0c81-44b1-879f-f6db0e62371f"} 
-{:block/content "Atala\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f004-0c81-44b1-879f-f6db0e62371f"}
-:block/parent 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f00a-0f07-418f-8da1-042992d1cdde"} 
-{:block/content "Ceasar Flickerman\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f00a-0f07-418f-8da1-042992d1cdde"}
-:block/parent 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f00e-5b2a-44db-8dcd-3b511cb4c79b"} 
-{:block/content "Claudius Templesmith\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f00e-5b2a-44db-8dcd-3b511cb4c79b"}
-:block/parent 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f018-04c4-470e-ac2d-a5bc73446dac"} 
-{:block/content "Clove\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512eef0-1ce5-4fbc-b20f-f38537f30fc6"}
-:block/parent 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f02c-e84f-4554-95a2-c20af255f289"} 
-{:block/content "\"Foxface\"\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f02c-e84f-4554-95a2-c20af255f289"}
-:block/parent 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f02d-55f2-40d5-9336-8fd5d81e3440"} 
-{:block/content "Thresh\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f02d-55f2-40d5-9336-8fd5d81e3440"}
-:block/parent 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f032-06c1-47b4-ab79-2e3a679841ee"} 
-{:block/content "Glimmer\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f032-06c1-47b4-ab79-2e3a679841ee"}
-:block/parent 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f035-7009-49a9-b0d3-c0e12d505164"} 
-{:block/content "Cato\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f035-7009-49a9-b0d3-c0e12d505164"}
-:block/parent 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f038-4fe8-47f4-8c97-a7e0f5efa187"} 
-{:block/content "Wolf Creatures\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f038-4fe8-47f4-8c97-a7e0f5efa187"}
-:block/parent 
-{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f041-4e1d-4544-afff-fa675e1b849a"} 
-{:block/content "Peacekeepers\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f018-04c4-470e-ac2d-a5bc73446dac"}
-:block/parent 
-{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f07e-8876-4eec-84e3-ab89ce8831b5"} 
-{:block/content "Katniss's siter whom she volunteered for in the day of the reaping. She resembles innocence for Katniss.\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
-:block/parent 
-{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f098-21a5-45ce-acd0-cc2f89d6f1c9"} 
-{:block/content "logseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512ef43-97de-49f7-a966-80e82d84a6e0"}
-:block/parent 
-{:block/uuid #uuid "6512ef43-97de-49f7-a966-80e82d84a6e0"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f0cd-e436-465a-9f31-9398cbfb12ae"} 
-{:block/content "works sometimes as a healer\nlogseq.order-list-type:: number"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512f098-21a5-45ce-acd0-cc2f89d6f1c9"}
-:block/parent 
-{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
-:block/properties 
-{:logseq.order-list-type "number"}
-:block/uuid #uuid "6512f0e9-f8b1-4e03-9e4c-53ced7f9ffc7"} 
 {:block/content "has a pet goat named Lady\nlogseq.order-list-type:: number"
 :block/format :markdown
 :block/left 
@@ -542,43 +404,7 @@
 :block/properties 
 {:logseq.order-list-type "number"}
 :block/uuid #uuid "6512f0ef-698c-4684-9fa6-c3febc94e1d2"} 
-{:block/created-at 1695740275457
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 5
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "0f2f9cb2-5c7d-11ee-bafb-293848db0076"
-:fontWeight 400
-:noFill true
-:point [707.76 -166]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 293]
-:bindingId "0f2f9cb0-5c7d-11ee-bafb-293848db0076"}
-:end 
-{:id "end"
-:canBind true
-:point [199.43 0]
-:bindingId "0f2f9cb1-5c7d-11ee-bafb-293848db0076"}}
-:decorations 
-{:end "arrow"}
-:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
-:nonce 1695740269256
-:italic false}}
-:block/updated-at 1695740275457} 
-{:block/created-at 1695743402204
+{:block/created-at 1696440735670
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -595,7 +421,7 @@
 :id "1273cb32-5c7d-11ee-bafb-293848db0076"
 :fontWeight 400
 :noFill true
-:point [642.22 -318]
+:point [589.66 -318]
 :fontSize 20
 :handles 
 {:start 
@@ -606,52 +432,196 @@
 :end 
 {:id "end"
 :canBind true
-:point [241.78 120.56]
+:point [294.34 917.32]
 :bindingId "1273cb31-5c7d-11ee-bafb-293848db0076"}}
 :decorations 
 {:end "arrow"}
 :parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
-:nonce 1695740274778
+:nonce 1695740274782
 :italic false}}
-:block/updated-at 1695743402204} 
-{:block/content "# Themes"
+:block/updated-at 1696440735670} 
+{:block/collapsed? true
+:block/content "Portia\nlogseq.order-list-type:: number"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
+{:block/uuid #uuid "6512efd9-3133-4683-b01b-cb05c3226c75"}
 :block/parent 
-{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
 :block/properties 
-{:heading 1}
-:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"} 
-{:block/created-at 1695743373693
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512efef-c580-4287-887a-ad030a9402ff"} 
+{:block/collapsed? true
+:block/content "Claudius Templesmith\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f00e-5b2a-44db-8dcd-3b511cb4c79b"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f018-04c4-470e-ac2d-a5bc73446dac"} 
+{:block/collapsed? true
+:block/content "Peeta Mellark\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee7c-1bc3-4383-87e2-59f4b199ed2c"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ee89-8298-4f63-a0ee-19b14b096058"} 
+{:block/collapsed? true
+:block/content "Cato\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f035-7009-49a9-b0d3-c0e12d505164"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f038-4fe8-47f4-8c97-a7e0f5efa187"} 
+{:block/collapsed? true
+:block/content "Katniss's Father\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef43-97de-49f7-a966-80e82d84a6e0"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef48-7617-49e5-a87d-3796139c6980"} 
+{:block/content "Much of Panem's totalitarian and controlling structure is intended to keep the districts from uniting into a second rebellion. The Capitol has orchestrated a system to keep its population distracted and separated from one another. Katniss's story is partially the story of her becoming a revolutionary. When first chosen as tribute, Katniss immediately begins to formulate a plan to win, considering her antagonists as the other tributes. This makes Peeta's kindness and Rue's similarities to Prim problematic, since they make it harder for her to consider them enemies. However, as the novel progresses, Katniss begins to realize her true enemy is not anyone in the arena but instead those who put them all there: the Capitol. This novel is the first of a trilogy, and by the end of the first book, Katniss is firmly convinced that the true evil is the system. It is the first step of revolutionary zeal that will drive her to confront the powers that be."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fd2e-1b19-4ecb-9efb-a919bb8e04b5"}
+:block/parent 
+{:block/uuid #uuid "6512fd2e-1b19-4ecb-9efb-a919bb8e04b5"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd61-3a79-467c-8a64-10f2814f7c88"} 
+{:block/collapsed? true
+:block/content "Katniss's Mother\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef43-97de-49f7-a966-80e82d84a6e0"} 
+{:block/created-at 1696432543603
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "74dd6952-5c84-11ee-bafb-293848db0076"
+:fontWeight 400
+:noFill true
+:point [571.35 -635.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 762.59]
+:bindingId "74dd6950-5c84-11ee-bafb-293848db0076"}
+:end 
+{:id "end"
+:canBind true
+:point [190.87 0]
+:bindingId "74dd6951-5c84-11ee-bafb-293848db0076"}}
+:decorations 
+{:end "arrow"}
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695743446368
+:italic false}}
+:block/updated-at 1696432543603} 
+{:block/collapsed? true
+:block/content "Ceasar Flickerman\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f00a-0f07-418f-8da1-042992d1cdde"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f00e-5b2a-44db-8dcd-3b511cb4c79b"} 
+{:block/created-at 1696440735661
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "B"
 :stroke ""
-:rotation 0
 :collapsed false
 :borderRadius 8
-:index 7
+:index 4
 :scale [1 1]
-:pageId "6512f6cd-1004-49f9-bee0-731a1e0074a3"
+:pageId "6512ea58-d371-4868-808e-af352937efdf"
 :scaleLevel "md"
 :fill ""
-:compact true
+:compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 78]
+:size [400 1167.4061218402098]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "42d5c820-5c80-11ee-bafb-293848db0076"
+:id "d6947af0-5c78-11ee-88d2-bf354e034b3a"
 :noFill false
-:point [-312 -240]
+:point [888 -248]
 :parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
 :collapsedHeight 0
-:nonce 1695741644767}}
-:block/updated-at 1695743373693} 
-{:block/created-at 1695743398591
+:nonce 1695738456228}}
+:block/updated-at 1696440735661} 
+{:block/collapsed? true
+:block/content "Primrose Everdeen #card\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"} 
+{:block/created-at 1695738219805
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [307 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "29b1c090-5c78-11ee-88d2-bf354e034b3a"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [360 -368]
+:lineHeight 1.2
+:fontSize 32
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695738166576
+:italic false
+:text "The Hunger Games"}}
+:block/updated-at 1695738219805} 
+{:block/created-at 1696432543599
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -674,163 +644,39 @@
 {:start 
 {:id "start"
 :canBind true
-:point [287.7 0]
+:point [285.78 0]
 :bindingId "5587b6a1-5c84-11ee-bafb-293848db0076"}
 :end 
 {:id "end"
 :canBind true
-:point [0 97.56]
+:point [0 94.64]
 :bindingId "52d600f1-5c80-11ee-bafb-293848db0076"}}
 :decorations 
 {:end "arrow"}
 :parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
-:nonce 1695741671447
+:nonce 1695741671448
 :italic false}}
-:block/updated-at 1695743398591} 
-{:block/created-at 1695743373697
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 9
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "5513bbf2-5c80-11ee-bafb-293848db0076"
-:fontWeight 400
-:noFill true
-:point [55.94 -158]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [206.44 285]
-:bindingId "5513bbf0-5c80-11ee-bafb-293848db0076"}
-:end 
-{:id "end"
-:canBind true
-:point [0 0]
-:bindingId "5513bbf1-5c80-11ee-bafb-293848db0076"}}
-:decorations 
-{:end "arrow"}
-:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
-:nonce 1695741674919
-:italic false}}
-:block/updated-at 1695743373697} 
-{:block/content "Evolving identity"
+:block/updated-at 1696432543599} 
+{:block/collapsed? true
+:block/content "Atala\nlogseq.order-list-type:: number"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+{:block/uuid #uuid "6512f004-0c81-44b1-879f-f6db0e62371f"}
 :block/parent 
-{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
 :block/properties 
-{}
-:block/uuid #uuid "6512f6f5-ef37-4707-b26d-b6ab2a6fe5ca"} 
-{:block/content "The sustaining power of love:"
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f00a-0f07-418f-8da1-042992d1cdde"} 
+{:block/collapsed? true
+:block/content "Haymitch Abernathy\nlogseq.order-list-type:: number"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "6512f6f5-ef37-4707-b26d-b6ab2a6fe5ca"}
+{:block/uuid #uuid "6512ef7a-8838-4323-8013-3b6808955170"}
 :block/parent 
-{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
 :block/properties 
-{}
-:block/uuid #uuid "6512fc84-e545-4b3e-9dd2-cfc286acaf64"} 
-{:block/content "Class:"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512fc84-e545-4b3e-9dd2-cfc286acaf64"}
-:block/parent 
-{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
-:block/properties 
-{}
-:block/uuid #uuid "6512fca4-7e84-4202-b98d-fda06aceb0e8"} 
-{:block/content "Spectacle"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512fca4-7e84-4202-b98d-fda06aceb0e8"}
-:block/parent 
-{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
-:block/properties 
-{}
-:block/uuid #uuid "6512fcd9-02fa-4c61-b950-6577628ee68a"} 
-{:block/content "Stoicism"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512fcd9-02fa-4c61-b950-6577628ee68a"}
-:block/parent 
-{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
-:block/properties 
-{}
-:block/uuid #uuid "6512fcfd-010c-4805-8905-a723986bcd7c"} 
-{:block/content "Rebellion/Revolution"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512fcfd-010c-4805-8905-a723986bcd7c"}
-:block/parent 
-{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
-:block/properties 
-{}
-:block/uuid #uuid "6512fd2e-1b19-4ecb-9efb-a919bb8e04b5"} 
-{:block/content "Community"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512fd2e-1b19-4ecb-9efb-a919bb8e04b5"}
-:block/parent 
-{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
-:block/properties 
-{}
-:block/uuid #uuid "6512fd44-b213-4756-be34-48c65cbe99fb"} 
-{:block/content "The Capitol keeps its population in line partially by keeping them separated. It uses class and spectacle and District separation to keep anyone from growing close to anyone else. Katniss brings this sense of isolation with her into the arena, believing that success will come from staying apart from the others and considering everyone around her as an enemy. Part of her growth in the novel is the realization that people are stronger when they are together. First through her alliance with Rue and then with Peeta, Katniss finds she survives better when part of a team. Her empathy for others is connected to the recognition that people are connected by shared humanity. Some of the most emotional moments come from this sense of community, as when District 11 gifts Katniss bread for her affection towards Rue. Her growing sense of community helps Katniss  dentify the Capitol as her society's primary antagonist."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512fd44-b213-4756-be34-48c65cbe99fb"}
-:block/parent 
-{:block/uuid #uuid "6512fd44-b213-4756-be34-48c65cbe99fb"}
-:block/properties 
-{}
-:block/uuid #uuid "6512fd5e-a84c-4f17-b94f-d4a47399ff3c"} 
-{:block/content "Much of Panem's totalitarian and controlling structure is intended to keep the districts from uniting into a second rebellion. The Capitol has orchestrated a system to keep its population distracted and separated from one another. Katniss's story is partially the story of her becoming a revolutionary. When first chosen as tribute, Katniss immediately begins to formulate a plan to win, considering her antagonists as the other tributes. This makes Peeta's kindness and Rue's similarities to Prim problematic, since they make it harder for her to consider them enemies. However, as the novel progresses, Katniss begins to realize her true enemy is not anyone in the arena but instead those who put them all there: the Capitol. This novel is the first of a trilogy, and by the end of the first book, Katniss is firmly convinced that the true evil is the system. It is the first step of revolutionary zeal that will drive her to confront the powers that be."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512fd2e-1b19-4ecb-9efb-a919bb8e04b5"}
-:block/parent 
-{:block/uuid #uuid "6512fd2e-1b19-4ecb-9efb-a919bb8e04b5"}
-:block/properties 
-{}
-:block/uuid #uuid "6512fd61-3a79-467c-8a64-10f2814f7c88"} 
-{:block/content "Stoicism is an ancient philosophy of withholding emotion for the sake of inner strength. In Roman times, stoicism meant, in a larger sense, the willingness to lose everything. One of Katniss's strengths is her stoicisim, which she describes as her \"indifferent mask.\" Because of the pressure to provide for her family, she has learned to stay focused on survival at the expense of her emotions, so much so that she doesn't realize how deeply she feels for Gale. Through the novel, her stoic determination proves a great asset towards succeeding at the Games, but it also masks her deep empathetic feelings for other people. Part of her journey is learning to accept her emotional side in addition to her stoicism."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512fcfd-010c-4805-8905-a723986bcd7c"}
-:block/parent 
-{:block/uuid #uuid "6512fcfd-010c-4805-8905-a723986bcd7c"}
-:block/properties 
-{}
-:block/uuid #uuid "6512fd62-ca31-4bd7-88ea-79628e96cf9a"} 
-{:block/content "The concept of \"spectacle\" is that the ruling class keeps its transgressions hidden by distracting the population through entertainments. In contemporary society, the argument would be that our surplus of vacuous television promotes a consumer culture that keeps the lower classes from identifying how terribly they are oppressed. This is very much what the Hunger Games do for the population of Panem. The Games are not treated by the citizens as brutish punishment, but rather as popular entertainment. By distracting the population with the Games, the Capitol keeps them from confronting greater injustices and potentially rebelling a second time. Katniss is very aware of the spectacle throughout the novel. She is constantly aware that to be a victor, she must give the audience entertainment value. Her pride is another reason she wants to control her image for the audience. The existence and awareness of the spectacle cause Katniss a lot of character conflict, particularly in terms of her affection for Peeta, which she justifies as being for the audience but which the reader can identify as true feelings. However, this theme is somewhat undercut by District 12's awareness of the horror of the Games. Collins seems to be saying that there is a nobility to being truly poor that allows them to see truths the more comfortable cannot. But this diminishes the parallel to real-world spectacle keeping oppressed classes from awareness of their oppression."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512fcd9-02fa-4c61-b950-6577628ee68a"}
-:block/parent 
-{:block/uuid #uuid "6512fcd9-02fa-4c61-b950-6577628ee68a"}
-:block/properties 
-{}
-:block/uuid #uuid "6512fd64-9238-45a9-8570-805c0df550c1"} 
-{:block/content "Panem is a country built on extreme class divisions. The districts are kept from contacting one another, and each is forced into a particular industry, thus limiting the social mobility of those within the district. Class is a strong tool used by the Capitol to keep its citizens distant from one another, hence limiting the chances of another rebellion. The tesserae is a prime example of how class keeps the poor resentful of the rich. Katniss, as the girl from the Seam in District 12, is the poorest of the poor. Though friendly with some in the merchant class, she exhibits various class resentments throughout the novel. She associates the Career tributes with their richer districts, and has trouble falling for Peeta partly because he knows the privilege of the merchant class, comparing him to Gale, who knows poverty."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6512fca4-7e84-4202-b98d-fda06aceb0e8"}
-:block/parent 
-{:block/uuid #uuid "6512fca4-7e84-4202-b98d-fda06aceb0e8"}
-:block/properties 
-{}
-:block/uuid #uuid "6512fd66-929e-41b7-8494-dd50a7dd5637"} 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef80-4d22-4bae-b14b-84be65b65dd5"} 
 {:block/content "Love proves to be integral towards keeping Katniss alive. She survived the difficult times following her father's death because she had Prim to look after. Her love for her sister (and her mother, though less explicitly) is what helps her to stay strong as a provider for the family. Likewise, Peeta's act of kindness with the bread, which she credits as having given her strength in that period, was dictated by his love for her, though she didn't know that at the time. Further, her growing love for Peeta in the arena continually helps her. The most obvious way is by encouraging Haymitch to send her sponsor gifts. Though she claims she expresses affection only for the sake of the gifts, it can easily be argued that her true feelings for him are what help her survive the final phases of the Games."
 :block/format :markdown
 :block/left 
@@ -840,15 +686,69 @@
 :block/properties 
 {}
 :block/uuid #uuid "6512fd68-28b2-4168-9427-2fc414607736"} 
-{:block/content "One of the central narratives in the novel is Katniss's shifting identity. At the beginning of the story, she considers herself thoroughly a \"girl from the Seam.\" She finds dignity in her poverty and her ability to survive it through her hunting and gathering skills. While friendly with several members of the merchant class, she identifies herself most strongly with Gale, also the child of a deceased poor miner. The stoic strength this identity has given her provides the philosophy she thinks will help her succeed in the Games. However, through the adventure, Katniss is forced to question both her identity as a \"girl from the Seam\" and her stoic detachment. In terms of the former, her relationship with Peeta, a boy from the merchant class, and her attraction to the luxury of the Capitol make her question whether she might belong somewhere different. And as she grows more and more indignant as she observes the brutality of the Games, she is forced to make many ethical decisions. She ultimately shows that deep down, she is a caring and empathetic person who disdains causing suffering (even to the antagonistic Career tributes), as opposed to being only a stoic hunter. This theme is reflected in a running conflict of passion vs. reason."
+{:block/created-at 1695737971543
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 0
+:scale [1 1]
+:type "pdf"
+:assetId "41b468b0-5c77-11ee-88d2-bf354e034b3a"
+:size [632 632]
+:opacity 1
+:id "41b48fc0-5c77-11ee-88d2-bf354e034b3a"
+:isLocked false
+:point [176 128]
+:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
+:nonce 1695737778234}}
+:block/updated-at 1695737971543} 
+{:block/content "Katniss's siter whom she volunteered for in the day of the reaping. She resembles innocence for Katniss.\nlogseq.order-list-type:: number"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "6512f6f5-ef37-4707-b26d-b6ab2a6fe5ca"}
+{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
 :block/parent 
-{:block/uuid #uuid "6512f6f5-ef37-4707-b26d-b6ab2a6fe5ca"}
+{:block/uuid #uuid "6512ef2b-dc16-4e07-93e4-e88fbc3b18fb"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f098-21a5-45ce-acd0-cc2f89d6f1c9"} 
+{:block/collapsed? true
+:block/content "Cinna\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512efd4-a5d9-4040-9ed8-745666318b09"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512efd9-3133-4683-b01b-cb05c3226c75"} 
+{:block/content "The concept of \"spectacle\" is that the ruling class keeps its transgressions hidden by distracting the population through entertainments. In contemporary society, the argument would be that our surplus of vacuous television promotes a consumer culture that keeps the lower classes from identifying how terribly they are oppressed. This is very much what the Hunger Games do for the population of Panem. The Games are not treated by the citizens as brutish punishment, but rather as popular entertainment. By distracting the population with the Games, the Capitol keeps them from confronting greater injustices and potentially rebelling a second time. Katniss is very aware of the spectacle throughout the novel. She is constantly aware that to be a victor, she must give the audience entertainment value. Her pride is another reason she wants to control her image for the audience. The existence and awareness of the spectacle cause Katniss a lot of character conflict, particularly in terms of her affection for Peeta, which she justifies as being for the audience but which the reader can identify as true feelings. However, this theme is somewhat undercut by District 12's awareness of the horror of the Games. Collins seems to be saying that there is a nobility to being truly poor that allows them to see truths the more comfortable cannot. But this diminishes the parallel to real-world spectacle keeping oppressed classes from awareness of their oppression."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fcd9-02fa-4c61-b950-6577628ee68a"}
+:block/parent 
+{:block/uuid #uuid "6512fcd9-02fa-4c61-b950-6577628ee68a"}
 :block/properties 
 {}
-:block/uuid #uuid "6512fd6a-0bef-4500-9adc-91ccb1807ef3"} 
+:block/uuid #uuid "6512fd64-9238-45a9-8570-805c0df550c1"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512e759-9fa5-494f-a402-5d0d83c97d40"}
+:block/parent 
+{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
+:block/properties 
+{}
+:block/uuid #uuid "6512e7a6-5a87-45b1-961c-2cfa0535b114"} 
+{:block/content "Panem is a country built on extreme class divisions. The districts are kept from contacting one another, and each is forced into a particular industry, thus limiting the social mobility of those within the district. Class is a strong tool used by the Capitol to keep its citizens distant from one another, hence limiting the chances of another rebellion. The tesserae is a prime example of how class keeps the poor resentful of the rich. Katniss, as the girl from the Seam in District 12, is the poorest of the poor. Though friendly with some in the merchant class, she exhibits various class resentments throughout the novel. She associates the Career tributes with their richer districts, and has trouble falling for Peeta partly because he knows the privilege of the merchant class, comparing him to Gale, who knows poverty."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fca4-7e84-4202-b98d-fda06aceb0e8"}
+:block/parent 
+{:block/uuid #uuid "6512fca4-7e84-4202-b98d-fda06aceb0e8"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd66-929e-41b7-8494-dd50a7dd5637"} 
 {:block/content "# Vocabs"
 :block/format :markdown
 :block/left 
@@ -858,7 +758,90 @@
 :block/properties 
 {:heading 1}
 :block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"} 
-{:block/created-at 1695825652020
+{:block/content "Community"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fd2e-1b19-4ecb-9efb-a919bb8e04b5"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd44-b213-4756-be34-48c65cbe99fb"} 
+{:block/content "Stoicism"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fcd9-02fa-4c61-b950-6577628ee68a"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fcfd-010c-4805-8905-a723986bcd7c"} 
+{:block/collapsed? true
+:block/content "Thresh\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f02d-55f2-40d5-9336-8fd5d81e3440"}
+:block/parent 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f032-06c1-47b4-ab79-2e3a679841ee"} 
+{:block/content "The Capitol keeps its population in line partially by keeping them separated. It uses class and spectacle and District separation to keep anyone from growing close to anyone else. Katniss brings this sense of isolation with her into the arena, believing that success will come from staying apart from the others and considering everyone around her as an enemy. Part of her growth in the novel is the realization that people are stronger when they are together. First through her alliance with Rue and then with Peeta, Katniss finds she survives better when part of a team. Her empathy for others is connected to the recognition that people are connected by shared humanity. Some of the most emotional moments come from this sense of community, as when District 11 gifts Katniss bread for her affection towards Rue. Her growing sense of community helps Katniss  dentify the Capitol as her society's primary antagonist."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fd44-b213-4756-be34-48c65cbe99fb"}
+:block/parent 
+{:block/uuid #uuid "6512fd44-b213-4756-be34-48c65cbe99fb"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd5e-a84c-4f17-b94f-d4a47399ff3c"} 
+{:block/collapsed? true
+:block/content "Peacekeepers\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f018-04c4-470e-ac2d-a5bc73446dac"}
+:block/parent 
+{:block/uuid #uuid "6512ee5b-4afa-4603-a616-48273e25362f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512f07e-8876-4eec-84e3-ab89ce8831b5"} 
+{:block/content "Stoicism is an ancient philosophy of withholding emotion for the sake of inner strength. In Roman times, stoicism meant, in a larger sense, the willingness to lose everything. One of Katniss's strengths is her stoicisim, which she describes as her \"indifferent mask.\" Because of the pressure to provide for her family, she has learned to stay focused on survival at the expense of her emotions, so much so that she doesn't realize how deeply she feels for Gale. Through the novel, her stoic determination proves a great asset towards succeeding at the Games, but it also masks her deep empathetic feelings for other people. Part of her journey is learning to accept her emotional side in addition to her stoicism."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fcfd-010c-4805-8905-a723986bcd7c"}
+:block/parent 
+{:block/uuid #uuid "6512fcfd-010c-4805-8905-a723986bcd7c"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd62-ca31-4bd7-88ea-79628e96cf9a"} 
+{:block/content "# Themes"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
+:block/parent 
+{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
+:block/properties 
+{:heading 1}
+:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"} 
+{:block/content "One of the central narratives in the novel is Katniss's shifting identity. At the beginning of the story, she considers herself thoroughly a \"girl from the Seam.\" She finds dignity in her poverty and her ability to survive it through her hunting and gathering skills. While friendly with several members of the merchant class, she identifies herself most strongly with Gale, also the child of a deceased poor miner. The stoic strength this identity has given her provides the philosophy she thinks will help her succeed in the Games. However, through the adventure, Katniss is forced to question both her identity as a \"girl from the Seam\" and her stoic detachment. In terms of the former, her relationship with Peeta, a boy from the merchant class, and her attraction to the luxury of the Capitol make her question whether she might belong somewhere different. And as she grows more and more indignant as she observes the brutality of the Games, she is forced to make many ethical decisions. She ultimately shows that deep down, she is a caring and empathetic person who disdains causing suffering (even to the antagonistic Career tributes), as opposed to being only a stoic hunter. This theme is reflected in a running conflict of passion vs. reason."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f6f5-ef37-4707-b26d-b6ab2a6fe5ca"}
+:block/parent 
+{:block/uuid #uuid "6512f6f5-ef37-4707-b26d-b6ab2a6fe5ca"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fd6a-0bef-4500-9adc-91ccb1807ef3"} 
+{:block/content "Districts residents:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee5e-e5cc-41bc-ab72-6ac8fa42f274"}
+:block/parent 
+{:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"}
+:block/properties 
+{}
+:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"} 
+{:block/created-at 1696432543589
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -874,7 +857,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 150]
+:size [400 144.40621640288273]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -883,14 +866,23 @@
 :point [496 -784]
 :parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
 :collapsedHeight 0
-:nonce 1695743435639}}
-:block/updated-at 1695825652020} 
-{:block/created-at 1695825652039
+:nonce 1695743435640}}
+:block/updated-at 1696432543589} 
+{:block/content "Evolving identity"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512f6f5-ef37-4707-b26d-b6ab2a6fe5ca"} 
+{:block/created-at 1696440735671
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 11
+:index 5
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -899,64 +891,668 @@
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "74dd6952-5c84-11ee-bafb-293848db0076"
+:id "0f2f9cb2-5c7d-11ee-bafb-293848db0076"
 :fontWeight 400
 :noFill true
-:point [571.53 -630]
+:point [809 338.26]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 757]
-:bindingId "74dd6950-5c84-11ee-bafb-293848db0076"}
+:point [0 20.23]
+:bindingId "0f2f9cb0-5c7d-11ee-bafb-293848db0076"}
 :end 
 {:id "end"
 :canBind true
-:point [189.93 0]
-:bindingId "74dd6951-5c84-11ee-bafb-293848db0076"}}
+:point [75 0]
+:bindingId "0f2f9cb1-5c7d-11ee-bafb-293848db0076"}}
 :decorations 
 {:end "arrow"}
 :parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
-:nonce 1695743446367
+:nonce 1695740269260
 :italic false}}
-:block/updated-at 1695825652039} 
-{:block/created-at 1695825652037
+:block/updated-at 1696440735671} 
+{:block/content "The police force of Panem. They illustrate the toughness of the Capitol laws, though the redear never confronts them directly in the first volume of the trilogy."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f07e-8876-4eec-84e3-ab89ce8831b5"}
+:block/parent 
+{:block/uuid #uuid "6512f07e-8876-4eec-84e3-ab89ce8831b5"}
 :block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 12
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "782df3e2-5c84-11ee-bafb-293848db0076"
-:fontWeight 400
-:noFill true
-:point [518.7 -630]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 261]
-:bindingId "782df3e0-5c84-11ee-bafb-293848db0076"}
-:end 
-{:id "end"
-:canBind true
-:point [53.19 0]
-:bindingId "782df3e1-5c84-11ee-bafb-293848db0076"}}
-:decorations 
-{:end "arrow"}
-:parentId "6512e6df-8d49-4a0f-8d5c-86750012ae82"
-:nonce 1695743451919
-:italic false}}
-:block/updated-at 1695825652037})
+{}
+:block/uuid #uuid "6512ef8c-93f9-49c4-8763-c0bfa674256f"} 
+{:block/content "# Characters"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512e7a6-5a87-45b1-961c-2cfa0535b114"}
+:block/parent 
+{:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"}
+:block/properties 
+{:heading 1}
+:block/uuid #uuid "6512ea58-d371-4868-808e-af352937efdf"} 
+{:block/collapsed? true
+:block/content "Mayor Undersee\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef6b-8102-43db-8a00-755449fb242d"}
+:block/parent 
+{:block/uuid #uuid "6512ee5f-2462-4f1f-91df-2297872e36ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "6512ef7a-8838-4323-8013-3b6808955170"} 
+{:block/content "The sustaining power of love:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f6f5-ef37-4707-b26d-b6ab2a6fe5ca"}
+:block/parent 
+{:block/uuid #uuid "6512f6cd-1004-49f9-bee0-731a1e0074a3"}
+:block/properties 
+{}
+:block/uuid #uuid "6512fc84-e545-4b3e-9dd2-cfc286acaf64"} 
+{:block/content "A Capitol-appointed escort for the games. She bears contempt for District 12, and wishes she could be appointed a better district, even though she balances that contempt with extreme peppiness."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee61-9f2b-4441-89fe-dfd862f016ce"}
+:block/parent 
+{:block/uuid #uuid "6512ee61-9f2b-4441-89fe-dfd862f016ce"}
+:block/properties 
+{}
+:block/uuid #uuid "651d943e-3c38-4ce5-9dd6-baa36c88eeb9"} 
+{:block/content "Katniss's assign prep team for the games, responsible for making her presentable. They are a flamboyant and vacuous bunch, while not outwardly antagonistic, represent the superficial nature of the games.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512efd4-a5d9-4040-9ed8-745666318b09"}
+:block/parent 
+{:block/uuid #uuid "6512efd4-a5d9-4040-9ed8-745666318b09"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d9480-12a6-4de0-b4a3-c1e2737088b7"} 
+{:block/content "Katniss's stylist for the Games. Gentle and kind, and, in the early stage, one of the few people she trusts on her team. He helps realize Haymitch's unified front strategy by dressing Katniss and Peeta similarly. He also devises the \"fire\" theme that distinguishes Katniss as \" The girl on fire.\"\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512efd9-3133-4683-b01b-cb05c3226c75"}
+:block/parent 
+{:block/uuid #uuid "6512efd9-3133-4683-b01b-cb05c3226c75"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d94bf-a7aa-455b-9ab6-1d8e21336ddf"} 
+{:block/content "Peeta's stylist for the Games. He works in tandem with Cinna.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512efef-c580-4287-887a-ad030a9402ff"}
+:block/parent 
+{:block/uuid #uuid "6512efef-c580-4287-887a-ad030a9402ff"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d953c-adcd-4539-a833-46989eb0f401"} 
+{:block/content "A servant in the center where Katniss stays while preparing for the Games. Years before, Katniss saw the girl get captured by Capitol representatives. The girl's companion, a boy, was killed in the incident. Katniss's inaction in this incident is a great source of her guilt. An Avox is a criminal whose tung is removed by the capitol as a punishment for a crime.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512eff7-bad7-4b42-ac9a-ee8ea7df23b0"}
+:block/parent 
+{:block/uuid #uuid "6512eff7-bad7-4b42-ac9a-ee8ea7df23b0"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d9565-1b24-47c4-b971-5bb83db3333e"} 
+{:block/content "The president of Panem. Though he seems genial enough, his anger towards Katniss at the end of the novel suggests an uglier side.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f001-d5e7-4913-9099-c9c10703f394"}
+:block/parent 
+{:block/uuid #uuid "6512f001-d5e7-4913-9099-c9c10703f394"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d95e2-a4a5-45b0-a086-c84436f90216"} 
+{:block/content "The team of capitol representatives responsible for designing the arena and manipulating it for entertainment effect. They are described as robed, privileged, and uninterested in the well-being of the tributes whose deaths they control\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f004-0c81-44b1-879f-f6db0e62371f"}
+:block/parent 
+{:block/uuid #uuid "6512f004-0c81-44b1-879f-f6db0e62371f"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d9610-c1f6-437b-9548-19d3cbd472e4"} 
+{:block/content "The capitol representative who manages the training center for the tributes, before they head off to the arena for the Games.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f00a-0f07-418f-8da1-042992d1cdde"}
+:block/parent 
+{:block/uuid #uuid "6512f00a-0f07-418f-8da1-042992d1cdde"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d9675-f907-48e7-92b9-7ebce701ed10"} 
+{:block/content "The interview host for the Games-related broadcast. He maintains an image of perpetual youth through plastic surgery. An extremely affable fellow, Katniss notes how he makes his interview hosts feel at ease, a great irony since his job is to celebrate the brutish nature of the Games.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f00e-5b2a-44db-8dcd-3b511cb4c79b"}
+:block/parent 
+{:block/uuid #uuid "6512f00e-5b2a-44db-8dcd-3b511cb4c79b"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d969a-788d-44a7-a17c-9ec6d0c00c02"} 
+{:block/content "The announcer for the Games, described by Katniss as \"legendary.\" His voice announces information to tributes as they play, as well as narrating for the television audience.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f018-04c4-470e-ac2d-a5bc73446dac"}
+:block/parent 
+{:block/uuid #uuid "6512f018-04c4-470e-ac2d-a5bc73446dac"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d96ff-9a26-4ccf-9d13-2d1527ced666"} 
+{:block/content "A legion of mutations that are sent after Katniss, Peeta, and Cato in the last leg of the Games. They are created from reanimated corpses of the dead tributes.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f041-4e1d-4544-afff-fa675e1b849a"}
+:block/parent 
+{:block/uuid #uuid "6512f041-4e1d-4544-afff-fa675e1b849a"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d978c-a060-442b-a803-82a8c824e0fd"} 
+{:block/content "The most vicious of the Career tributes, Cate becomes one of Katniss's primary antagonists. He holds great contempt for her personally, and throughout the Games hunts her.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f038-4fe8-47f4-8c97-a7e0f5efa187"}
+:block/parent 
+{:block/uuid #uuid "6512f038-4fe8-47f4-8c97-a7e0f5efa187"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d97d5-7879-44fe-aa1e-a831eeb127a7"} 
+{:block/content "A female Career tribute. She fetched the bow and arrow at the beginning of the Games, and Katniss takes it from her body after Katniss kills her by dropping the tracker jackers nest.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f035-7009-49a9-b0d3-c0e12d505164"}
+:block/parent 
+{:block/uuid #uuid "6512f035-7009-49a9-b0d3-c0e12d505164"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d9813-3139-4356-975b-8886b6f6dbb1"} 
+{:block/content "The male tribute from district 11. Rue's counterpart. An extramly large boy who hides in the grassy fields and poses great challenge to the Careers. He saves Katniss's life from Clove for Rue, and is killed by Cato.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f032-06c1-47b4-ab79-2e3a679841ee"}
+:block/parent 
+{:block/uuid #uuid "6512f032-06c1-47b4-ab79-2e3a679841ee"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d9855-9064-4619-b731-984e34040c38"} 
+{:block/content "A female tribute who operated through tactical avoidance of conflict. Katniss notices her hiding and darting through the woods, and nicknames her \"Foxface\", both for her animalistic features and her ability to stay quite.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f02d-55f2-40d5-9336-8fd5d81e3440"}
+:block/parent 
+{:block/uuid #uuid "6512f02d-55f2-40d5-9336-8fd5d81e3440"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d98a0-d2bf-49ea-9690-f34a31e6a221"} 
+{:block/content "A female Career tribute known for her proficiency with knives. She is killed by Thresh when about to murder Katniss.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512f02c-e84f-4554-95a2-c20af255f289"}
+:block/parent 
+{:block/uuid #uuid "6512f02c-e84f-4554-95a2-c20af255f289"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d98e6-2cb3-4a28-a5f9-cd8400511eea"} 
+{:block/content "Tributes from richer district who have illegally trained in order to succeed in the Games. They willingly attend as competitors, and Katniss refers to them as \"the Capitol's lapdogs.\" They include: Clove, Glimmer and Cato\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512eef0-1ce5-4fbc-b20f-f38537f30fc6"}
+:block/parent 
+{:block/uuid #uuid "6512eef0-1ce5-4fbc-b20f-f38537f30fc6"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d991a-74d1-4f19-be24-d383ad77dcfa"} 
+{:block/content "A female tribute from district 11, the second poorest district in Panem. She is 12 years old and Katniss associates her with Prim. They form an alliance in the Games, she is the one that told Katniss to drop the tracker jackers' nest on the Careers to get away, and Katniss is emotionally affected by her death, which is a major turning point in the novel.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee8b-9a09-4721-8ffb-ce713849a8d7"}
+:block/parent 
+{:block/uuid #uuid "6512ee8b-9a09-4721-8ffb-ce713849a8d7"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651d9984-e9b4-4f29-92da-7cad627fb68f"} 
+{:block/content "The 16 year old narrator and protagonist of the novel. Katniss is an outsider to her country of Panem. As a member of the poorest class in the poorest District (District 12), Katniss is forced to scrounge and hunt for her family's survival. She takes care of her younger sister Prim and her mother by hunting with Gale, her closest friend. She is a professional hunter with great survival skills, and her best weapon is her bow and arrow. In order to stay successful, Katniss has developed a tough stoic attitude to life, which comes in handy once she is chosen to compete as District 12 representative in the Hunger Games. Deep down, Katniss has a deep compassion for others, and thrives on taking care of the helpless. She learns more about this part of herself during the Games.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee7c-1bc3-4383-87e2-59f4b199ed2c"}
+:block/parent 
+{:block/uuid #uuid "6512ee7c-1bc3-4383-87e2-59f4b199ed2c"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da0d9-3101-486b-9c3a-65c953409ac6"} 
+{:block/content "The male tribute chosen to represent District 12 in the Hunger Games, and Katniss's closest companion during the event. The son of a baker, Peeta belongs to the merchant class of the district. Peeta is an extremely kind boy, and once gave Katniss bread when they were much younger, a moment that she considers crucial to her survival in the period after her father's death. He has been in love with Katniss since he first saw her on their first day of school.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ee89-8298-4f63-a0ee-19b14b096058"}
+:block/parent 
+{:block/uuid #uuid "6512ee89-8298-4f63-a0ee-19b14b096058"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da0dd-b024-4eab-9c9a-12bcf28d5788"} 
+{:block/content "Katniss's father is never named in the novel, nor is he seen in the narrative. He was a miner who was killed in a mining explosion before the narrative begins. He was a very close to Katniss, and his death devastated her. Following his death, Katniss adopted a stoic attitude to life so as to provide for her family. Her father was also a wonderful singer.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef48-7617-49e5-a87d-3796139c6980"}
+:block/parent 
+{:block/uuid #uuid "6512ef48-7617-49e5-a87d-3796139c6980"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da102-93e5-4cfb-ad4b-d7cc21373f8b"} 
+{:block/content "Katniss's best friend and hunting partner in District 12. He is two years older than her. His last name is not provided by this novel, but is mentioned in the rest of the trilogy. Gale is characterized by Katniss as an attractive boy, though she claims there is no romance between them. He is a skilled hunter and a positive presence in her life. He is as poor as Katniss (if not more so), and equally responsible for providing for his family as she is. His father was killed in the same mine explosion that killed her father. Gale calls Katniss \"Catnip.\"\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef4f-af86-4293-8473-bfe705b8ec61"}
+:block/parent 
+{:block/uuid #uuid "6512ef4f-af86-4293-8473-bfe705b8ec61"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da115-605b-4065-8a2b-35c22ddb7d09"} 
+{:block/content "An old woman who trades commodities at the Hob, the District 12 trading post. She is the one that gave Katniss the golden pin the movie.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef57-e5d0-405b-93d8-799993ea9566"}
+:block/parent 
+{:block/uuid #uuid "6512ef57-e5d0-405b-93d8-799993ea9566"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da11e-4e45-4af3-8a21-dea9f1c6b015"} 
+{:block/content "The daughter of District 12's mayor. Madge is very kind to Katniss, and gives her the mockingjay pin before Katniss heads off to the Hunger Games.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef6b-8102-43db-8a00-755449fb242d"}
+:block/parent 
+{:block/uuid #uuid "6512ef6b-8102-43db-8a00-755449fb242d"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da138-2f57-4309-827a-2c40ed578050"} 
+{:block/content "Madge's father, and a big fan of the strawberries that Katniss sells to him. He is the mayor of District 12. He reads the Treaty of Treason at the reaping day ceremony. Described as a \"tall, balding man.\"\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef7a-8838-4323-8013-3b6808955170"}
+:block/parent 
+{:block/uuid #uuid "6512ef7a-8838-4323-8013-3b6808955170"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da143-ffd5-453c-ba87-657cd9143a3e"} 
+{:block/content "One of the two sole District 12 citizens to have won the Hunger Games, and the only one surviving. As such, he serves as a mentor to his district's tributes. He is a heavy drinker, which makes him seem a buffoon to most, but once Katniss and Peeta impress him, he proves himself a rather adept mentor through establishing their unified front strategy. Though Katniss professes to despise him, she realizes through the novel that they are very much alike in their craftiness and ability to suppress their emotions.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512ef80-4d22-4bae-b14b-84be65b65dd5"}
+:block/parent 
+{:block/uuid #uuid "6512ef80-4d22-4bae-b14b-84be65b65dd5"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da155-99e1-43e5-b556-8109d67aaa83"} 
+{:block/content "A baker in District 12. Katniss learns late in the novel that he once loved her mother. He visits Katniss after she is named tribute, and promises to keep Prim fed.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512efc4-e5f7-4096-a60b-982d9ff2297d"}
+:block/parent 
+{:block/uuid #uuid "6512efc4-e5f7-4096-a60b-982d9ff2297d"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da15f-3b88-424c-9dfd-ba87abb2b68a"} 
+{:block/content "Acrid\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da1b9-7cb7-40b1-86d7-82787c47c51b"} 
+{:block/content "Aloof\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1b9-7cb7-40b1-86d7-82787c47c51b"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da1be-73ad-4c4f-9a82-365ba5207e94"} 
+{:block/content "Apothecary\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1be-73ad-4c4f-9a82-365ba5207e94"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da1c0-7401-47ed-8f0d-94271357911b"} 
+{:block/content "Barbarism\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1c0-7401-47ed-8f0d-94271357911b"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da1c1-109d-4bb3-90bf-fbfe70841d5a"} 
+{:block/content "Cannibalism\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1c1-109d-4bb3-90bf-fbfe70841d5a"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da1c2-0e4b-47ef-b888-83c5db46922a"} 
+{:block/content "Catacombs\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1c2-0e4b-47ef-b888-83c5db46922a"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da1c3-7edf-48c7-bcc7-e2312ca45c17"} 
+{:block/content "Cornucopia\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1c3-7edf-48c7-bcc7-e2312ca45c17"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da1c4-63cb-4d44-8687-4110a92eebf4"} 
+{:block/content "Decadent\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1c4-63cb-4d44-8687-4110a92eebf4"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da1c5-7cf7-457c-a0d6-68f57c086c4b"} 
+{:block/content "A symbol of plenty consisting of a goat's horn overflowing with sustenance."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1c4-63cb-4d44-8687-4110a92eebf4"}
+:block/parent 
+{:block/uuid #uuid "651da1c4-63cb-4d44-8687-4110a92eebf4"}
+:block/properties 
+{}
+:block/uuid #uuid "651da1d3-546f-4041-b751-b9a1ab144c20"} 
+{:block/content "Luxurious and self-indulgent"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1c5-7cf7-457c-a0d6-68f57c086c4b"}
+:block/parent 
+{:block/uuid #uuid "651da1c5-7cf7-457c-a0d6-68f57c086c4b"}
+:block/properties 
+{}
+:block/uuid #uuid "651da1d9-81a7-4069-b62e-a40dfbf9f2e2"} 
+{:block/content "Either an underground cemetery, or an underground construction resembling such a cemetery"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1c3-7edf-48c7-bcc7-e2312ca45c17"}
+:block/parent 
+{:block/uuid #uuid "651da1c3-7edf-48c7-bcc7-e2312ca45c17"}
+:block/properties 
+{}
+:block/uuid #uuid "651da1e0-6f19-48b4-bc2b-8fb2df83283e"} 
+{:block/content "The practice of eating one's own kind (i.e. humans eating humans)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1c2-0e4b-47ef-b888-83c5db46922a"}
+:block/parent 
+{:block/uuid #uuid "651da1c2-0e4b-47ef-b888-83c5db46922a"}
+:block/properties 
+{}
+:block/uuid #uuid "651da1e4-2dbb-4b38-ad68-ce23242794ed"} 
+{:block/content "Absence of culture and civilization."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1c1-109d-4bb3-90bf-fbfe70841d5a"}
+:block/parent 
+{:block/uuid #uuid "651da1c1-109d-4bb3-90bf-fbfe70841d5a"}
+:block/properties 
+{}
+:block/uuid #uuid "651da1e8-9f14-48b5-8335-909267dfe992"} 
+{:block/content "A druggist or chemist; in Panem, a \"healer.\""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1c0-7401-47ed-8f0d-94271357911b"}
+:block/parent 
+{:block/uuid #uuid "651da1c0-7401-47ed-8f0d-94271357911b"}
+:block/properties 
+{}
+:block/uuid #uuid "651da1eb-badc-4253-be5f-1d55353c1db6"} 
+{:block/content "Not friendly or forthcoming; cool and distant"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1be-73ad-4c4f-9a82-365ba5207e94"}
+:block/parent 
+{:block/uuid #uuid "651da1be-73ad-4c4f-9a82-365ba5207e94"}
+:block/properties 
+{}
+:block/uuid #uuid "651da1f0-5c8a-40c2-a925-4eadf53a6450"} 
+{:block/content "Having an irritatingly strong and unpleasant taste or smell"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1b9-7cb7-40b1-86d7-82787c47c51b"}
+:block/parent 
+{:block/uuid #uuid "651da1b9-7cb7-40b1-86d7-82787c47c51b"}
+:block/properties 
+{}
+:block/uuid #uuid "651da1f3-f8a7-48e8-add5-f66918482134"} 
+{:block/content "Feral\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da1c5-7cf7-457c-a0d6-68f57c086c4b"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da21f-a313-461c-9932-23ec6ff1ae6c"} 
+{:block/content "Wild, uncivilized\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da21f-a313-461c-9932-23ec6ff1ae6c"}
+:block/parent 
+{:block/uuid #uuid "651da21f-a313-461c-9932-23ec6ff1ae6c"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da225-513e-4d30-aa5e-e239cae8dc8a"} 
+{:block/content "Festering\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da21f-a313-461c-9932-23ec6ff1ae6c"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da22a-df42-433d-b53b-97c354ba4ce0"} 
+{:block/content "To become rotten and offensive to the senses\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da22a-df42-433d-b53b-97c354ba4ce0"}
+:block/parent 
+{:block/uuid #uuid "651da22a-df42-433d-b53b-97c354ba4ce0"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da22b-38ed-485c-812e-bed5b4a9979e"} 
+{:block/content "Forage\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da22a-df42-433d-b53b-97c354ba4ce0"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da22b-59f3-444c-9bb4-8e15b4522296"} 
+{:block/content "To search widely for food and provisions\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da22b-59f3-444c-9bb4-8e15b4522296"}
+:block/parent 
+{:block/uuid #uuid "651da22b-59f3-444c-9bb4-8e15b4522296"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da22c-4c8b-46d9-bf2f-0af2cbd35612"} 
+{:block/content "Grandeur\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da22b-59f3-444c-9bb4-8e15b4522296"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da22d-2cc5-4df3-b4c2-b75c0c1087b3"} 
+{:block/content "Splendor and impressiveness\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da22d-2cc5-4df3-b4c2-b75c0c1087b3"}
+:block/parent 
+{:block/uuid #uuid "651da22d-2cc5-4df3-b4c2-b75c0c1087b3"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da22d-3f7c-4ba9-9602-76ee01db565e"} 
+{:block/content "Groosling\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da22d-2cc5-4df3-b4c2-b75c0c1087b3"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da22e-e291-49d0-b6d9-cb06db33e095"} 
+{:block/content "A wild bird found in the arena.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da22e-e291-49d0-b6d9-cb06db33e095"}
+:block/parent 
+{:block/uuid #uuid "651da22e-e291-49d0-b6d9-cb06db33e095"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da230-f491-4989-91f3-ec9dada53711"} 
+{:block/content "Haggle\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da22e-e291-49d0-b6d9-cb06db33e095"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da230-dfec-418b-b42a-e03b4c3b446d"} 
+{:block/content "To bargain persistently, usually with a merchant\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da230-dfec-418b-b42a-e03b4c3b446d"}
+:block/parent 
+{:block/uuid #uuid "651da230-dfec-418b-b42a-e03b4c3b446d"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da231-b72e-40a6-96fa-82e072f4d4b0"} 
+{:block/content "Hovercraft\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da230-dfec-418b-b42a-e03b4c3b446d"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da238-1037-49d2-b01d-d68a9d963018"} 
+{:block/content "A vehicle that travels over land or water on a cushion of air provided by a downward blast.\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da238-1037-49d2-b01d-d68a9d963018"}
+:block/parent 
+{:block/uuid #uuid "651da238-1037-49d2-b01d-d68a9d963018"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da239-f9df-4a80-acb8-0305540adf24"} 
+{:block/content "Indifferent\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da238-1037-49d2-b01d-d68a9d963018"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da23b-a44a-4363-b138-0061996c1c4c"} 
+{:block/content "Having no particular interest or sympathy; unconcerned\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da23b-a44a-4363-b138-0061996c1c4c"}
+:block/parent 
+{:block/uuid #uuid "651da23b-a44a-4363-b138-0061996c1c4c"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da23c-df4f-43d9-a7aa-61075d86313a"} 
+{:block/content "A chemical solution, used in this novel to treat unclean water\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da249-2a43-422c-8807-1f17e77a06a4"}
+:block/parent 
+{:block/uuid #uuid "651da249-2a43-422c-8807-1f17e77a06a4"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da23e-1ca8-40c9-9c01-79b712057f4b"} 
+{:block/content "Iodine\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da23b-a44a-4363-b138-0061996c1c4c"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da249-2a43-422c-8807-1f17e77a06a4"} 
+{:block/content "Pretense\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da249-2a43-422c-8807-1f17e77a06a4"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da25e-6dca-4680-bbd5-92187de5ea10"} 
+{:block/content "A false display of feelings, attitudes or intentions\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da25e-6dca-4680-bbd5-92187de5ea10"}
+:block/parent 
+{:block/uuid #uuid "651da25e-6dca-4680-bbd5-92187de5ea10"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da267-2dc5-45c2-ac67-5943e31f3ef6"} 
+{:block/content "Food and drink as source of strength and nourishment\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da26c-a739-4e28-8880-1e87a59b1e70"}
+:block/parent 
+{:block/uuid #uuid "651da26c-a739-4e28-8880-1e87a59b1e70"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da268-05a9-4e5d-96e5-042be8745a3a"} 
+{:block/content "A small tablet of wood or bone used as a token in ancient Greece and Rome; in Panem a token for food in exchange for additional Hunger Game entries\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da26e-f9d5-46dc-a8e8-718d92da3b9e"}
+:block/parent 
+{:block/uuid #uuid "651da26e-f9d5-46dc-a8e8-718d92da3b9e"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da26a-55cf-4cba-895f-c17e5d3be9de"} 
+{:block/content "Sustenance\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da25e-6dca-4680-bbd5-92187de5ea10"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da26c-a739-4e28-8880-1e87a59b1e70"} 
+{:block/content "Tessera\nlogseq.order-list-type:: number"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "651da26c-a739-4e28-8880-1e87a59b1e70"}
+:block/parent 
+{:block/uuid #uuid "6512fdcc-59ac-4f77-9af4-3b452ab20d82"}
+:block/properties 
+{:logseq.order-list-type "number"}
+:block/uuid #uuid "651da26e-f9d5-46dc-a8e8-718d92da3b9e"})
 :pages (
 {:block/uuid #uuid "6512e6df-8d49-4a0f-8d5c-86750012ae82"
 :block/properties 
@@ -1116,7 +1712,7 @@
 :src "../assets/Thehungergames_1695737776807_0.pdf"
 :size [595 842]}]
 :shapes-index ("41b48fc0-5c77-11ee-88d2-bf354e034b3a" "29b1c090-5c78-11ee-88d2-bf354e034b3a" "4c9f18f2-5c78-11ee-88d2-bf354e034b3a" "4ee0a480-5c78-11ee-88d2-bf354e034b3a" "d6947af0-5c78-11ee-88d2-bf354e034b3a" "0f2f9cb2-5c7d-11ee-bafb-293848db0076" "1273cb32-5c7d-11ee-bafb-293848db0076" "42d5c820-5c80-11ee-bafb-293848db0076" "52d600f2-5c80-11ee-bafb-293848db0076" "5513bbf2-5c80-11ee-bafb-293848db0076" "6e9ceac0-5c84-11ee-bafb-293848db0076" "74dd6952-5c84-11ee-bafb-293848db0076" "782df3e2-5c84-11ee-bafb-293848db0076")}}
-:block/updated-at 1695825653539
+:block/updated-at 1696440951250
 :block/created-at 1695737567216
 :block/type "whiteboard"
 :block/name "the hunger games"
